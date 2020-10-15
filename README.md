@@ -1,6 +1,7 @@
 # Booking procedure 
 Click on the Book button 
-![alt text](http://url/to/Screenshot_0.png)
+
+![Screenshot_0](https://user-images.githubusercontent.com/72726714/96103593-962e1e00-0ee0-11eb-8fe3-c8889678daac.png)
 
 ## CHECK PASSENGER DETAILS
 Explore whether you need a Kiwi.com Guarantee (Click on Learn more) ![alt text](http://url/to/Screenshot_1.png)

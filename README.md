@@ -86,7 +86,7 @@ Choose either Personal Item or Cabin bag
 ![Screenshot_7](https://user-images.githubusercontent.com/72726714/96140536-b8d42d00-0f08-11eb-8b17-f0cc0aed36cf.png)
 
 
-
+**STEP 8.**
 ### Add another passenger (optional)
 
 ![Screenshot_8](https://user-images.githubusercontent.com/72726714/96140645-d2757480-0f08-11eb-9dc4-c5c06321ba97.png)
@@ -96,35 +96,50 @@ Click Continue Button
 
 
 ## SELECT YOUR TICKET FARE
-![alt text](http://url/to/Screenshot_9.png)
+
+**STEP 9.**
+
 Choose one of these three options:
 * Continue with Saver
 * Continue with Standard
 * Continue with Flexi
 
+![Screenshot_9](https://user-images.githubusercontent.com/72726714/96140882-1c5e5a80-0f09-11eb-8825-2bedda13e14d.png)
+
+
+**STEP 10.**
 ### Upgrade your level of Kiwi.com services
-![alt text](http://url/to/Screenshot_10.png)
+
 Chooseone of two options:
 * Continue with Plus
 * Upgrade and continue
 
+![Screenshot_10](https://user-images.githubusercontent.com/72726714/96140889-1ec0b480-0f09-11eb-83b1-ff7ac334faec.png)
+
 ## CUSTOMIZE YOUR TRIP
-![alt text](http://url/to/Screenshot_11.png)
+**STEP 11.**
 
 Click on Expand seat map
+![Screenshot_11](https://user-images.githubusercontent.com/72726714/96140899-208a7800-0f09-11eb-8ea4-02e58ef8be87.png)
+
+
 Choose a desirable seat (Click select)
-![alt text](http://url/to/Screenshot_12.png)
+![Screenshot_12](https://user-images.githubusercontent.com/72726714/96140907-22543b80-0f09-11eb-8701-8d91b5db33e8.png)
 
 Click on Collapse seat map
 Click continue 
 
 ## OVERVIEW AND PAYMENT
-![alt text](http://url/to/Screenshot_13.png)
+
+**STEP 12.**
+
 Enter the following information:
 * Payment card number
 * Expiry date
 * Security code
 * Cardholder's name
+
+![Screenshot_13](https://user-images.githubusercontent.com/72726714/96140910-241dff00-0f09-11eb-9415-5000a46c9000.png)
 
 Tick Save card (optional)
 Read and tick Accept Terms&Conditions 

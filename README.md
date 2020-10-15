@@ -3,9 +3,11 @@ Click on the Book button
 
 ![Screenshot_0](https://user-images.githubusercontent.com/72726714/96103593-962e1e00-0ee0-11eb-8fe3-c8889678daac.png)
 
+
 ## CHECK PASSENGER DETAILS
 Explore whether you need a Kiwi.com Guarantee (Click on Learn more) 
-![Screenshot_1](https://user-images.githubusercontent.com/72726714/96137870-d8b62180-0f05-11eb-8a96-380cdf76c540.png)
+![Screenshot_1](https://user-images.githubusercontent.com/72726714/96138841-dd2f0a00-0f06-11eb-9910-3ffd69738194.png)
+
 
 ### Choose a prefferable way to Sign in:
 * Continue with Facebook
@@ -18,10 +20,10 @@ Type your email and phone number
 
 
 ### Choose a primary passenger info 
-![alt text](http://url/to/Screenshot_3.png)
+![Screenshot_3](https://user-images.githubusercontent.com/72726714/96138332-5712c380-0f06-11eb-982e-74f19455027b.png)
 
 Enter personal information 
-![alt text](http://url/to/Screenshot_4.png)
+![Screenshot_4](https://user-images.githubusercontent.com/72726714/96138433-6f82de00-0f06-11eb-9d3b-bb8502bc7ec3.png)
 * Given names
 * Surnames
 * Nationality
@@ -31,7 +33,9 @@ Enter personal information
 * Passport or ID expiry date (or choose No Expiry)
 
 ### Choose Cabin Baggage Details
-![alt text](http://url/to/Screenshot_5.png)
+
+![Screenshot_5](https://user-images.githubusercontent.com/72726714/96138466-790c4600-0f06-11eb-9da1-c708ef442eb4.png)
+
 Choose either Personal Item or Cabin bag
 
 ### Checked Baggage Details

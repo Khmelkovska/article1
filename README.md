@@ -141,7 +141,6 @@ Enter the following information:
 
 ![Screenshot_13](https://user-images.githubusercontent.com/72726714/96140910-241dff00-0f09-11eb-9415-5000a46c9000.png)
 
-Tick Save card (optional)
-Read and tick Accept Terms&Conditions 
+Tick Save card (optional). Then Read and tick Accept Terms&Conditions 
 
 Click Pay button

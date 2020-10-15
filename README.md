@@ -26,7 +26,7 @@ Explore whether you need a Kiwi.com Guarantee (Click on Learn more)
 
 Type your email and phone number 
 
-![Screenshot_2](https://user-images.githubusercontent.com/72726714/96138068-1155fb00-0f06-11eb-95d3-0b93b8461783.png)
+![Screenshot_2](https://user-images.githubusercontent.com/72726714/96141548-cb9b3180-0f09-11eb-96a2-9b24ec1d5aca.png)
 
 
 

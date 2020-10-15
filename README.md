@@ -69,21 +69,31 @@ Choose either Personal Item or Cabin bag
 
 
 ### Checked Baggage Details
-![alt text](http://url/to/Screenshot_6.png)
+
+![Screenshot_6](https://user-images.githubusercontent.com/72726714/96140484-a9ed7a80-0f08-11eb-94e9-b068e0715b0d.png)
 
 
 **STEP 7.**
 
 
 ### Choose Your Travel Insurance (select only 1 of 3 options)
-![alt text](http://url/to/Screenshot_7.png)
+
 * Travel Plus
 * Travel Basic
 * No Insurance 
 
+
+![Screenshot_7](https://user-images.githubusercontent.com/72726714/96140536-b8d42d00-0f08-11eb-8b17-f0cc0aed36cf.png)
+
+
+
 ### Add another passenger (optional)
-![alt text](http://url/to/Screenshot_8.png)
+
+![Screenshot_8](https://user-images.githubusercontent.com/72726714/96140645-d2757480-0f08-11eb-9dc4-c5c06321ba97.png)
+
+
 Click Continue Button
+
 
 ## SELECT YOUR TICKET FARE
 ![alt text](http://url/to/Screenshot_9.png)

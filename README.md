@@ -4,7 +4,8 @@ Click on the Book button
 ![Screenshot_0](https://user-images.githubusercontent.com/72726714/96103593-962e1e00-0ee0-11eb-8fe3-c8889678daac.png)
 
 ## CHECK PASSENGER DETAILS
-Explore whether you need a Kiwi.com Guarantee (Click on Learn more) ![alt text](http://url/to/Screenshot_1.png)
+Explore whether you need a Kiwi.com Guarantee (Click on Learn more) 
+![Screenshot_1](https://user-images.githubusercontent.com/72726714/96137870-d8b62180-0f05-11eb-8a96-380cdf76c540.png)
 
 ### Choose a prefferable way to Sign in:
 * Continue with Facebook
@@ -12,7 +13,9 @@ Explore whether you need a Kiwi.com Guarantee (Click on Learn more) ![alt text](
 * Enter Contact Details
 
 Type your email and phone number 
-![alt text](http://url/to/Screenshot_2.png)
+
+![Screenshot_2](https://user-images.githubusercontent.com/72726714/96138068-1155fb00-0f06-11eb-95d3-0b93b8461783.png)
+
 
 ### Choose a primary passenger info 
 ![alt text](http://url/to/Screenshot_3.png)
